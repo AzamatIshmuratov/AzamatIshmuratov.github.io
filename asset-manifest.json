@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sea_battle_game/static/css/main.6fb7000d.chunk.css",
+    "main.js": "/sea_battle_game/static/js/main.440cfe10.chunk.js",
+    "main.js.map": "/sea_battle_game/static/js/main.440cfe10.chunk.js.map",
+    "runtime-main.js": "/sea_battle_game/static/js/runtime-main.cc9a7aa7.js",
+    "runtime-main.js.map": "/sea_battle_game/static/js/runtime-main.cc9a7aa7.js.map",
+    "static/js/2.8086cead.chunk.js": "/sea_battle_game/static/js/2.8086cead.chunk.js",
+    "static/js/2.8086cead.chunk.js.map": "/sea_battle_game/static/js/2.8086cead.chunk.js.map",
+    "static/js/3.b9085749.chunk.js": "/sea_battle_game/static/js/3.b9085749.chunk.js",
+    "static/js/3.b9085749.chunk.js.map": "/sea_battle_game/static/js/3.b9085749.chunk.js.map",
+    "index.html": "/sea_battle_game/index.html",
+    "static/css/main.6fb7000d.chunk.css.map": "/sea_battle_game/static/css/main.6fb7000d.chunk.css.map",
+    "static/js/2.8086cead.chunk.js.LICENSE.txt": "/sea_battle_game/static/js/2.8086cead.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc9a7aa7.js",
+    "static/js/2.8086cead.chunk.js",
+    "static/css/main.6fb7000d.chunk.css",
+    "static/js/main.440cfe10.chunk.js"
+  ]
+}
