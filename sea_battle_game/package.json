@@ -2,7 +2,7 @@
   "name": "sea_battle_game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azamatishmuratov.github.io/",
+  "homepage": "https://azamatishmuratov.github.io/sea_battle_game/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
