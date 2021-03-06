@@ -50,3 +50,14 @@ a {
 .context-menu__item:hover{
     transform: scale(1.1);
 }
+
+.title{
+    width: 800px;
+    margin: 20px;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 24px;
+    text-shadow: 1px 1px 1px black;
+    color: rgb(182, 153, 116);
+    text-align: center;
+}
