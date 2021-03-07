@@ -8,5 +8,6 @@
 3) Проект на canvas "Редактор фигур" (JS): https://azamatishmuratov.github.io/EditorFigures/
                          
                          
-Ссылка на проект "Редактор фигур": https://github.com/AzamatIshmuratov/EditorFigures-react
-Ссылка на проект "Динамичный прямоугольник": https://github.com/AzamatIshmuratov/AzamatIshmuratov.github.io/tree/master/Canvas
+Ссылка на проект "Редактор фигур": https://github.com/AzamatIshmuratov/EditorFigures-react <br>
+Ссылка на проект "Динамичный прямоугольник": https://github.com/AzamatIshmuratov/AzamatIshmuratov.github.io/tree/master/Canvas <br>
+Ссылка на проект "Морской бой" https://github.com/AzamatIshmuratov/seaBattleReact
