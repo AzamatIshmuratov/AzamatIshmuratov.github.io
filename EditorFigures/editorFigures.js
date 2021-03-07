@@ -23,6 +23,7 @@ let lines = [];                 // массив линий
 
 let canvas = document.getElementById('canvas');
 let ctx = canvas.getContext('2d');
+drawText();
 start();
 
 function Node(x, y, width, height, color = 'red', lineFrom, lineTo) {     // класс "Узел"
@@ -70,7 +71,6 @@ function start(){
     canvas.ondblclick = onDoubleClick;
     canvas.onmousedown = onMouseClick;
     canvas.oncontextmenu = onContextMenu;
-    drawText();
 }
 
 function onDoubleClick(event){
