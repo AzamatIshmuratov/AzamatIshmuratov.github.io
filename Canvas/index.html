@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="dyn_rectangle.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic rectangle</title>
+</head>
+<body>
+    <div class="title">Динамичный прямоугольник</div>
+    <canvas id="canvas" width="800" height="600"></canvas>
+    <nav class="context-menu">
+        <ul class="context-menu__items">
+          <li class="context-menu__item">
+            <a href="#" class="context-menu__link">
+              rotate
+            </a>
+          </li>
+          <li class="context-menu__item">
+            <a href="#" class="context-menu__link">
+              scale
+            </a>
+          </li>
+          <li class="context-menu__item">
+            <a href="#" class="context-menu__link">
+              move
+            </a>
+          </li>
+        </ul>
+      </nav>
+    <script src="dyn_rectangle.js"></script>
+    <div class="descr">
+        *Нажмите на правую кнопку мыши (внутри фигуры) для вызова контекстного меню.
+    </div>
+</body>
+</html>
