@@ -70,6 +70,7 @@ function start(){
     canvas.ondblclick = onDoubleClick;
     canvas.onmousedown = onMouseClick;
     canvas.oncontextmenu = onContextMenu;
+    drawText();
 }
 
 function onDoubleClick(event){
